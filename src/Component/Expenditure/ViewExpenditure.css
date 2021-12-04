@@ -1,0 +1,17 @@
+/* .left-nav-bar-view-expenditure{
+    background-color: darkgray;
+    height: 600px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 1rem;
+} */
+.item-list-view-expenditure{
+    background-color: burlywood;
+    height: 700px;
+    width: 100%;
+    margin: 10px 20px;
+    padding: 10px;
+    border-radius: 1rem;
+}
+

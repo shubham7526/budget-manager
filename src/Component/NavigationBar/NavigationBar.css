@@ -1,0 +1,62 @@
+.navigation-bar{
+    /* background-color: burlywood; */
+    margin-top: 10px;
+}
+.home-button{
+    /* border: 2px solid black; */
+    width: 200px;
+    /* background-color: antiquewhite; */
+    border-radius: 1rem;
+}
+.button-link{
+    text-decoration: none;
+    color: black;
+}
+
+.expenditure-button{
+    /* border: 2px solid black; */
+    width: 200px;
+    height: auto;
+    /* background-color: antiquewhite; */
+    border-radius: 1rem;
+}
+
+.income-button{
+    /* border: 2px solid black; */
+    width: 200px;
+    height: auto;
+    /* background-color: antiquewhite; */
+    border-radius: 1rem;
+}
+
+.saving-button{
+    /* border: 2px solid black; */
+    width: 200px;
+    /* background-color: antiquewhite; */
+    border-radius: 1rem;
+}
+
+.nav-button{
+    background-color: violet;
+    color: white;
+}
+
+
+/* .model-header{
+    text-align: center; 
+    background-color: darkorange;
+
+}
+.model-footer{
+    background-color: black;
+}
+
+.modal-content{
+    width: 700px;
+    height: 600px;
+    margin-top: 180px;
+    margin-left: -100px;
+}
+.model-add-expenditure{
+    margin-bottom: 10px 10px 10px 10px;
+} */

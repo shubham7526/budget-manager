@@ -1,0 +1,13 @@
+.logo > img{
+    height: 100px;
+    width: 100px;
+}
+
+.header-heading{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid black; */
+    color: white;
+    background-color: darkorange;
+    border-radius: 1rem;
+}
